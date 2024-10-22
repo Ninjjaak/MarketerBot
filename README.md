@@ -11,12 +11,18 @@ A bot which automatically connects to a notion page, dumps the data into a JSON,
 # Additional Helpful Info
 
 1 - IDE Editor Tutorial - https://www.youtube.com/watch?v=Byp2N1hCsXY
+
+
 2 - Pip installs necessary:
     - *Notion*
     - *Openai*
     - *Tweepy*
+
+
 3 - Linkedin Developer's Page - https://developer.linkedin.com/
     - *How to set up a Linkedin app* - https://www.youtube.com/watch?v=K-xhbDN34VI&t=1s
+
+
 4 - Twitter Developer's Page - https://developer.twitter.com/en/docs/developer-portal/overview
     - *How to set up a Twitter app* - https://www.youtube.com/watch?v=5vWgLwjtqGU
 
