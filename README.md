@@ -1,5 +1,5 @@
 # MarketerBot
-A bot which automatically connects to a notion page, dumps the data into a JSON, then feeds it. to chat-GPT to create a summarized article, then posts it on linkedin/twitter
+A bot which automatically connects to a notion page, dumps the data into a JSON, then feeds it. to Chat-GPT to create a summarized article, then posts it on linkedin/twitter
 
 # HOW TO USE
 
