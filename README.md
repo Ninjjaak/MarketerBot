@@ -2,10 +2,15 @@
 A bot which automatically connects to a notion page, dumps the data into a JSON, then feeds it. to chat-GPT to create a summarized article, then posts it on linkedin/twitter
 
 # HOW TO USE
+
 1 - Download the chosen script (twitter/linkedin)
+
 2 - Paste the script into any Python IDE editor (e.g. Visual Studio Code/ Pycharm)
+
 3 - Fill in necessary details (e.g 'YOUR_NOTION_TOKEN' will become 'secret-xxxxxxxxxx')
+
 4 - Install all necessary libraries using pip/pip3 
+
 5 - Run and enjoy!
 
 # Additional Helpful Info
